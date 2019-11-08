@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    background-image: url('sandwiches.jpg');
+}
+
+#instructions {
+    background-color: lightcoral;
+    padding: 6px;
+    margin: 6px;
+}
+
+#orderForm {
+    width: 75%;
+    margin: 20px auto;
+}
+
+#receipt {
+    background-color: #999999;
+    color: blanchedalmond;
+    padding: 6px;
+}
